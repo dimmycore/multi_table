@@ -1,3 +1,5 @@
+#таблица умножения
+
 def multi_table(number):
     st = str()
     for x in range(1, 11):
